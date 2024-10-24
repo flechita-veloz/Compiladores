@@ -1,0 +1,15 @@
+//c: integer = 12;
+//D: integer = hijo;
+// a = ! 134 ;
+// for( a = 5; a < 10; a = a + 1) { p = j; }
+// for( a = 5; a < 10; a++) { p = j; }
+//while( a != 3) { jjj = "carro";}
+//void func(integer a) { b = a + 1; }
+//if( a <= 3 ) {if(a > 5) {a++;}} else {a = 4;}
+//if( i != 5) {a = b - 1 ; } 
+// a = ! 134 ;
+//integer func(integer a, char b) {b = a + 1;}
+//if( a <= 3) {if(a > 5) {a++}} 
+// void func(integer a) { b = a + 1; }
+//void main ( ) { y : integer [8] = 8; y = 1 ;}
+if( i != 5) {{a = b - 1 ; c == 10 }}

@@ -1,0 +1,5 @@
+a: array[5] ;
+funcion(a : integer){
+  print("hola");
+}
+b: char = 'q';

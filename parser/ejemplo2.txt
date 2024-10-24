@@ -1,0 +1,28 @@
+asdasda = 251665 + 7
+print (a) # este es un comentario
+//beta = 158 - 16
+//pedo--
+// asd
+
+//fgdf = 8194*165
+/* dsadsad fgd dfgs gf 
+asdas
+dasdsa
+gfdg */
+
+print (fgdf)
+for (int i = 0; i <= step; i++)
+
+asdasda = 251665 + 7
+print (a) # este es un comentario
+for (int i = 0; i <= step; i++)
+a: array [5] integer;
+s: string = "hello world\t";
+c: char = 'q';
+paaa: char = '';
+s: string = "\n";
+asdas: string = "";
+a+++++
+while (true){
+	print ("whatever this is");
+}
